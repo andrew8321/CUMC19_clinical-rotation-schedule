@@ -31,7 +31,7 @@ def find_last_char_match(df, week, value):
 
 st.title("턴표 요약")
 
-uploaded_file = st.file_uploader("Excel 파일을 업로드하세요 (Turn.xlsx)", type=["xlsx"])
+uploaded_file = st.file_uploader("턴표 Excel 파일을 업로드하세요", type=["xlsx"])
 
 if uploaded_file is not None:
     try:
