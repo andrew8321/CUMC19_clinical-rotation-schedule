@@ -1,3 +1,4 @@
-This page is for students of class 2025 of CUMC. Use this code with your excel file of the clinical rotation schedule.
+CUMC 19학번 턴표 프로그램
 
-Good luck!
+다음 링크를 사용해주세요:
+https://8hdbhmepphohgezauwpxhv.streamlit.app/
